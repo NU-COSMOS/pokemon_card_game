@@ -1,10 +1,22 @@
 {
     "cards": [
         {
-            "name": "アーボ"
+            "name": "アーボ",
+            "type": "monster",
+            "before": "",
+            "properties": ["超"]
         },
         {
-            "name": "アーボック"
+            "name": "アーボック",
+            "type": "monster",
+            "before": "アーボ",
+            "properties": ["超"]
+        },
+        {
+            "name": "炎エネルギー",
+            "type": "energy",
+            "property": "炎",
+            "num": 1
         }
     ],
 

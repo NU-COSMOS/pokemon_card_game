@@ -1,3 +1,4 @@
 test.py
 decks/*
 !decks/sample.json
+**__pycache__
